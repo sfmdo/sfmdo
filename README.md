@@ -44,4 +44,3 @@ Estudiante de **Tecnología en Desarrollo de Software** enfocado en la construcc
 
 ---
 
-📧 **Contacto:** [tucorreo@email.com] | [LinkedIn](https://linkedin.com/in/tu-usuario)
