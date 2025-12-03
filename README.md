@@ -32,7 +32,6 @@ Estudiante de **Tecnología en Desarrollo de Software** enfocado en la construcc
 | :--- | :--- | :--- |
 | [**Red Social de Reseñas**](https://github.com/sfmdo/Amigos-Falsos) | Sistema de registro de incidencias y perfiles de usuario. Implementa autenticación, relaciones SQL complejas y despliegue automatizado. | `Node.js` `Express` `Supabase` |
 | [**Gestión de Rutinas**](https://github.com/Omescobell/ProyectoWeb) | Plataforma administrativa para gimnasios con operaciones CRUD completas y diseño responsivo. Arquitectura MVC. | `Node.js` `MySQL` `Bootstrap` |
-| **Juego Interactivo** | Aplicación de lógica con manejo de estado en servidor y validación de datos en tiempo real. | `JavaScript` `Backend Logic` |
 
 ---
 
