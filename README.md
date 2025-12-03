@@ -36,11 +36,4 @@ Estudiante de **Tecnología en Desarrollo de Software** enfocado en la construcc
 
 ---
 
-### Actividad en GitHub
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=sfmdo&show_icons=true&hide_title=true&hide_border=true&layout=compact&theme=graywhite" alt="Stats" />
-</p>
-
----
 
