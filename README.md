@@ -1,4 +1,3 @@
-# Hola, soy [Tu Nombre]
 ### Backend & Web Developer
 
 Estudiante de **Tecnología en Desarrollo de Software** enfocado en la construcción de **REST APIs escalables**, arquitectura de bases de datos y lógica de servidor. Experiencia práctica en el ciclo completo de desarrollo (SDLC), desde el diseño de esquemas SQL hasta el despliegue en producción (CI/CD).
