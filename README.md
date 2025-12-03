@@ -4,7 +4,7 @@ Estudiante de **Tecnología en Desarrollo de Software** enfocado en la construcc
 
 ---
 
-### 🛠 Stack Tecnológico
+### Stack Tecnológico
 
 **Backend & Base de Datos**
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -26,7 +26,7 @@ Estudiante de **Tecnología en Desarrollo de Software** enfocado en la construcc
 
 ---
 
-### 📂 Portafolio Destacado
+### Portafolio Destacado
 
 | Proyecto | Descripción Técnica | Stack |
 | :--- | :--- | :--- |
@@ -36,7 +36,7 @@ Estudiante de **Tecnología en Desarrollo de Software** enfocado en la construcc
 
 ---
 
-### 📊 Actividad en GitHub
+### Actividad en GitHub
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=sfmdo&show_icons=true&hide_title=true&hide_border=true&layout=compact&theme=graywhite" alt="Stats" />
