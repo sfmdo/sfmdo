@@ -4,7 +4,7 @@ Estudiante de **Tecnologo en Desarrollo de Software** especializado en la inters
 
 ---
 
-### 🧠 Especialización en IA & Agentes
+### Especialización en IA & Agentes
 - **Agentic Workflows:** Implementación de ciclos de razonamiento Chain-of-Thought (CoT) y Agentes ReAct para automatización de procesos.
 - **RAG Architectures:** Construcción de pipelines de recuperación aumentada de datos con bases de datos vectoriales locales.
 - **Local LLMs:** Despliegue y orquestación de modelos locales (Ollama/Qwen) garantizando la privacidad de los datos.
