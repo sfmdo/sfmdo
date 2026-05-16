@@ -1,38 +1,56 @@
-### Backend & Web Developer
+# AI & Web Developer | Agentic Services Specialist
 
-Estudiante de **Tecnología en Desarrollo de Software** enfocado en la construcción de **REST APIs escalables**, arquitectura de bases de datos y lógica de servidor. Experiencia práctica en el ciclo completo de desarrollo (SDLC), desde el diseño de esquemas SQL hasta el despliegue en producción (CI/CD).
+Estudiante de **Tecnologo en Desarrollo de Software** especializado en la intersección del desarrollo web robusto y la inteligencia artificial generativa. Mi enfoque actual es la creación de **servicios web agénticos**, implementando flujos de razonamiento (ReAct), arquitecturas MCP (Model Context Protocol) y sistemas de memoria de largo plazo (RAG).
 
 ---
 
-### Stack Tecnológico
+### 🧠 Especialización en IA & Agentes
+- **Agentic Workflows:** Implementación de ciclos de razonamiento Chain-of-Thought (CoT) y Agentes ReAct para automatización de procesos.
+- **RAG Architectures:** Construcción de pipelines de recuperación aumentada de datos con bases de datos vectoriales locales.
+- **Local LLMs:** Despliegue y orquestación de modelos locales (Ollama/Qwen) garantizando la privacidad de los datos.
 
-**Backend & Base de Datos**
+---
+
+### 🛠️ Stack Tecnológico
+
+**AI & Data Infrastructure**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-white?style=flat-square&logo=chroma&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat-square&logoColor=black)
+
+**Backend & Scalable APIs**
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-**Frontend & Motores de Plantillas**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black)
-
-**Herramientas & DevOps**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+**Frontend & UX**
+![Angular](https://img.shields.io/badge/Angular_19-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ---
 
-### Portafolio Destacado
+###  Proyectos Destacados
 
+#### Inteligencia Artificial & Agentes
 | Proyecto | Descripción Técnica | Stack |
 | :--- | :--- | :--- |
-| [**Red Social de Reseñas**](https://github.com/sfmdo/Amigos-Falsos) | Sistema de registro de incidencias y perfiles de usuario. Implementa autenticación, relaciones SQL complejas y despliegue automatizado. | `Node.js` `Express` `Supabase` |
-| [**Gestión de Rutinas**](https://github.com/Omescobell/ProyectoWeb) | Plataforma administrativa para gimnasios con operaciones CRUD completas y diseño responsivo. Arquitectura MVC. | `Node.js` `MySQL` `Bootstrap` |
+| **Pepe - POS AI Assistant** | Agente ReAct para Telegram que interactúa con un ERP. Utiliza el protocolo **MCP** para ejecutar herramientas (APIs) y razonar sobre datos financieros complejos. | `Python` `FastMCP` `Ollama` |
+| **RAG-Lite** | Pipeline local de Recuperación Aumentada (RAG) con memoria de largo plazo. Implementa chunking inteligente y aislamiento de datos por usuario (Multi-tenant). | `ChromaDB` `FastEmbed` `Python` |
+
+#### Arquitectura Web & Backend
+| Proyecto | Descripción Técnica | Stack |
+| :--- | :--- | :--- |
+| **Retail Logic Engine** | API robusta para POS con motor de precios dinámicos, analítica de velocidad de ventas y transacciones atómicas de crédito/lealtad. | `Django` `DRF` `PostgreSQL` |
+| **ETE-Tech ERP** | Sistema de gestión de servicios técnicos con seguimiento logístico, integración de pagos (PayPal SDK) y facturación electrónica CFDI 4.0. | `Angular 19` `Node.js` `MySQL` |
 
 ---
 
+### Metas actuales
+- Profundizar en la orquestación de multi-agentes (LangGraph/AutoGen).
+- Optimizar la latencia en sistemas RAG distribuidos.
+- Seguir contribuyendo al desarrollo de software con arquitecturas limpias y seguras.
 
+---
