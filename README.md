@@ -37,14 +37,14 @@ Estudiante de **Tecnologo en Desarrollo de Software** especializado en la inters
 #### Inteligencia Artificial & Agentes
 | Proyecto | Descripción Técnica | Stack |
 | :--- | :--- | :--- |
-| **Pepe - POS AI Assistant** | Agente ReAct para Telegram que interactúa con un ERP. Utiliza el protocolo **MCP** para ejecutar herramientas (APIs) y razonar sobre datos financieros complejos. | `Python` `FastMCP` `Ollama` |
-| **RAG-Lite** | Pipeline local de Recuperación Aumentada (RAG) con memoria de largo plazo. Implementa chunking inteligente y aislamiento de datos por usuario (Multi-tenant). | `ChromaDB` `FastEmbed` `Python` |
+| **[Pepe - POS AI Assistant](https://github.com/Omescobell/Punto-de-Venta)** | Agente ReAct para Telegram que interactúa con un ERP. Utiliza el protocolo **MCP** para ejecutar herramientas (APIs) y razonar sobre datos financieros complejos. | `Python` `FastMCP` `Ollama` |
+| **[RAG-Lite](https://github.com/sfmdo/RAG-Lite)** | Pipeline local de Recuperación Aumentada (RAG) con memoria de largo plazo. Implementa chunking inteligente y aislamiento de datos por usuario (Multi-tenant). | `ChromaDB` `FastEmbed` `Python` |
 
 #### Arquitectura Web & Backend
 | Proyecto | Descripción Técnica | Stack |
 | :--- | :--- | :--- |
-| **Retail Logic Engine** | API robusta para POS con motor de precios dinámicos, analítica de velocidad de ventas y transacciones atómicas de crédito/lealtad. | `Django` `DRF` `PostgreSQL` |
-| **ETE-Tech ERP** | Sistema de gestión de servicios técnicos con seguimiento logístico, integración de pagos (PayPal SDK) y facturación electrónica CFDI 4.0. | `Angular 19` `Node.js` `MySQL` |
+| **[Retail Logic Engine](https://github.com/Omescobell/Punto-de-Venta)** | API robusta para POS con motor de precios dinámicos, analítica de velocidad de ventas y transacciones atómicas de crédito/lealtad. | `Django` `DRF` `PostgreSQL` |
+| **[ETE-Tech ERP](https://github.com/sfmdo/ETE-Tetch)** | Sistema de gestión de servicios técnicos con seguimiento logístico, integración de pagos (PayPal SDK) y facturación electrónica CFDI 4.0. | `Angular 19` `Node.js` `MySQL` |
 
 ---
 
