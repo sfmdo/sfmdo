@@ -1,5 +1,7 @@
 # Tecnologo en Desarrollo de Software
 
+*Tecnologo Engreido*
+
 Enfocado en el diseño de sistemas, escalamiento, infraestructura cloud, IoT, automatización, metodologías de ingeniería y orquestación de agentes. Orientado a construir soluciones conectadas y mantenibles, priorizando la claridad arquitectónica, el rendimiento y la eficiencia operativa.
 
 ---
